@@ -17,20 +17,30 @@ Here are some ideas to get you started:
 
 
 <h1> I am <b>Nithin Kamal</b> 😄</h1>
-<h3> I am an experienced Machine Learning Engineer, Full Stack Developer, and Software Engineer. </h3>
-<br />
+<h3> I am an experienced <b><i><span color='green'> Machine Learning Engineer </span>, Full Stack Developer, and Software Engineer.</i></b> </h3>
 <h3> My main areas of expertise are in Full Stack Development, Machine Learning and Robotics.</h3>
 <br /> 
 <h3> Preferred Languages: Python, Typescript, JavaScript, C++. </h3>
 <br />
-** MY SKILLS: **
 
-<h3> <u>Full Stack Development :</u> <b> React, Next.js, Tailwind CSS, HTML, CSS, WebSockets, Plotly, Data Visualization, REST API, GraphQL, Node.js,
-Express.js, Flask, ES6, Server Side Rendering </b></h3>
+<h2><u?>** MY SKILLS: **</u></h2>
 
-<h3> AI and ML: Pandas, Numpy, JAX, PyTorch, TensorFlow, Keras, SciKit‑learn, Jupyter, Data Analysis, Numerical Optimization,
+<h3> <u>Full Stack Development :</u> <i><b> React, Next.js, Tailwind CSS, HTML, CSS, WebSockets, Plotly, Data Visualization, REST API, GraphQL, Node.js,
+Express.js, Flask, ES6, Server Side Rendering </i></b></h3>
+
+<h3> <u>AI and ML:</u> <b> <i>Pandas, Numpy, JAX, PyTorch, TensorFlow, Keras, SciKit‑learn, Jupyter, Data Analysis, Numerical Optimization,
 3D Images, Generative AI, Large Language Models, LangChain, Transformers, Deep Learning, Computer
-Vision, Machine Learning, Natural Language Processing (NLP).</h3>
+Vision, Machine Learning, Natural Language Processing (NLP)</i></b>.</h3>
+
+<h3> <u>Cloud & DevOps:</u> <b><i> Git, Docker, AWS, CI/CD, Windows, Linux, MQTT, Vercel, GitLab, Jenkins, Microsoft Azure </i></b> </h3>
+
+<h3> <u>Databases:</u> <b><i> PostGreSQL, MySQL, MongoDB, InfluxDB </i></b> </h3>
+
+<h3> <u>Methodology:</u> <b><i> Agile, Test Driven Development, Scrum, Kanban, Pair Programming, Code Review </i></b> </h3>
+
+<h3> <u>Others:</u> <b><i> ROS(Robot Operating System), Data Structures and Algorithms, Design Patterns, Shell Script, OOP
+(Object‑Oriented Programming), Gazebo (Robotics Simulation), PyQt, JIRA, Functional Programming, Microsoft
+Office</i></b> </h3>
 
 
 - 🌱 I’m currently learning more on Generative AI and its applications on Autonomous Systems
